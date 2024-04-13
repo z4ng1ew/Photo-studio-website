@@ -1,6 +1,6 @@
 # Photo Studio Website
 
-This website is prepared for demonstration as a pet project. It represents a landing page with a subscription form and a burger menu for smartphones. Flexbox is used in this project.
+This website is prepared for demonstration as a pet project. It represents a landing page with a subscription form and a burger menu for smartphones. Flexbox is used in this project. The project is located on the develop branch.
 
 ## Purpose
 
@@ -24,7 +24,7 @@ To view this project, simply open the `index.html` file in a web browser.
 
 ## Contributors
 
-- Зангиев Мовсар
+- Zangiev Movsar
 
 Feel free to contribute by forking this repository and submitting a pull request.
 
